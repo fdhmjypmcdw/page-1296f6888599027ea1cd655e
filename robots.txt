@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-73c4599a6a.zhuangxism.cn/sitemap.xml
